@@ -5,4 +5,4 @@ Principal Landing page
 
 ### Captura de Pantalla:
 
-![](imagen/miweb.png)
+![](media/miweb.png)
