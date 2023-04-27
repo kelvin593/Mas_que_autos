@@ -1,7 +1,7 @@
 # Mas_que_autos
 Principal Landing page
 
-## Quieres ver mi Web-Entra en este enlace: https://kelvin593.github.io/Mas_que_autos/
+## Quieres ver mi Web-Entra en este enlace: mas-que-autos.vercel.app
 
 ### Captura de Pantalla:
 
